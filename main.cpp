@@ -1,7 +1,4 @@
 /*
- * Author: Hartej Randhawa
- * Date: October 5, 2023
- * 
  * This file contains the `main` function, which serves as the entry point
  * for the program. It sets up the Wt server application, handles the
  * application life cycle, and instantiates the WordleApplication class
