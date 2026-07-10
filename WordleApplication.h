@@ -1,7 +1,4 @@
 /*
- * Author: Hartej Randhawa
- * Date: October 5, 2023
- * 
  * This file defines the WordleApplication class, which inherits from Wt::WApplication
  * and manages the game logic and user interface. It declares member variables and
  * functions for handling user input, processing guesses, and displaying game outcomes.
