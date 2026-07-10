@@ -1,7 +1,4 @@
 /*
- * Author: Hartej Randhawa
- * Date: October 5, 2023
- * 
  * This file contains the implementation of the WordleApplication class, which
  * handles the main logic of the game. It uses Wt widgets to create a web-based
  * interface for the game, allowing users to input guesses and providing feedback
